@@ -8,7 +8,7 @@
 
 Also my apologies since many of my projects are private. Please contact me to understand details.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarkarghya/)
+![](https://komarev.com/ghpvc/?username=sakarghya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarkarghya/)
 
 
 # Projects
